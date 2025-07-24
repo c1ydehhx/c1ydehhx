@@ -14,7 +14,7 @@ The list I pinned in below is the project I maintaining recently. Feel free to d
 
 ### Contact Me
 
-Personal Website: [ntut-xuan.github.io](https://ntut-xuan.github.io)
+Personal Website: [www.c1ydeh.net](https://www.c1ydeh.net)
 
 E-mail: [xuan910625.cs13@nycu.edu.tw](mailto://xuan910625.cs13@nycu.edu.tw)
 
