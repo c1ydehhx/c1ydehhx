@@ -22,4 +22,4 @@ LinkedIn: [Han-Xuan (Clyde) Huang](https://www.linkedin.com/in/han-xuan-huang-3b
 
 ### Interesting Stat
 
-![](https://github-readme-stats.vercel.app/api?username=ntut-xuan&include_all_commits=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=c1ydehhx&include_all_commits=true&theme=tokyonight)
